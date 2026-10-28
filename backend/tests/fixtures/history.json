@@ -1,0 +1,90 @@
+{
+  "insCode": "46348559193224090",
+  "symbol": "فولاد",
+  "history": [
+    {
+      "dateJalali": "1405/08/03",
+      "dateGregorian": "2026-10-25",
+      "openPrice": 5050,
+      "highPrice": 5260,
+      "lowPrice": 5010,
+      "closePrice": 5120,
+      "lastPrice": 5150,
+      "volume": 84200150,
+      "valueToman": 43363077250,
+      "trades": 14250
+    },
+    {
+      "dateJalali": "1405/08/02",
+      "dateGregorian": "2026-10-24",
+      "openPrice": 4980,
+      "highPrice": 5080,
+      "lowPrice": 4950,
+      "closePrice": 5020,
+      "lastPrice": 5010,
+      "volume": 71400000,
+      "valueToman": 35842800000,
+      "trades": 11800
+    },
+    {
+      "dateJalali": "1405/07/30",
+      "dateGregorian": "2026-10-21",
+      "openPrice": 4900,
+      "highPrice": 5000,
+      "lowPrice": 4890,
+      "closePrice": 4950,
+      "lastPrice": 4960,
+      "volume": 65200000,
+      "valueToman": 32274000000,
+      "trades": 9850
+    },
+    {
+      "dateJalali": "1405/07/29",
+      "dateGregorian": "2026-10-20",
+      "openPrice": 4850,
+      "highPrice": 4940,
+      "lowPrice": 4820,
+      "closePrice": 4900,
+      "lastPrice": 4920,
+      "volume": 58900000,
+      "valueToman": 28861000000,
+      "trades": 8940
+    },
+    {
+      "dateJalali": "1405/07/28",
+      "dateGregorian": "2026-10-19",
+      "openPrice": 4800,
+      "highPrice": 4890,
+      "lowPrice": 4770,
+      "closePrice": 4850,
+      "lastPrice": 4840,
+      "volume": 52100000,
+      "valueToman": 25268500000,
+      "trades": 7650
+    },
+    {
+      "dateJalali": "1405/07/27",
+      "dateGregorian": "2026-10-18",
+      "openPrice": 4750,
+      "highPrice": 4820,
+      "lowPrice": 4720,
+      "closePrice": 4790,
+      "lastPrice": 4800,
+      "volume": 49200000,
+      "valueToman": 23566800000,
+      "trades": 6920
+    },
+    {
+      "dateJalali": "1405/07/26",
+      "dateGregorian": "2026-10-17",
+      "openPrice": 4690,
+      "highPrice": 4770,
+      "lowPrice": 4680,
+      "closePrice": 4740,
+      "lastPrice": 4750,
+      "volume": 44100000,
+      "valueToman": 20903400000,
+      "trades": 6120
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "indices": [
+    {
+      "id": "TEDPIX",
+      "titleFa": "شاخص کل",
+      "titleEn": "TEDPIX Overall Index",
+      "value": 7927330.57,
+      "change": 0,
+      "percentChange": 0,
+      "high": 7927330.57,
+      "low": 7927330.57,
+      "publishTime": "08:35",
+      "isPositive": true,
+      "topMovers": [
+        {"symbol": "فولاد", "impact": 0},
+        {"symbol": "فملی", "impact": 0},
+        {"symbol": "فارس", "impact": 0},
+        {"symbol": "شستا", "impact": 0}
+      ]
+    },
+    {
+      "id": "PRICE_WEIGHTED",
+      "titleFa": "شاخص قیمت (وزنی-ارزشی)",
+      "titleEn": "Price Index (Cap-Weighted)",
+      "value": 1308559.35,
+      "change": 0,
+      "percentChange": 0,
+      "high": 1308559.35,
+      "low": 1308559.35,
+      "publishTime": "08:35",
+      "isPositive": true,
+      "topMovers": []
+    },
+    {
+      "id": "EQUAL_WEIGHT",
+      "titleFa": "شاخص کل (هم وزن)",
+      "titleEn": "Equal Weighted Overall Index",
+      "value": 2202744.79,
+      "change": 0,
+      "percentChange": 0,
+      "high": 2202744.79,
+      "low": 2202744.79,
+      "publishTime": "08:35",
+      "isPositive": true,
+      "topMovers": []
+    },
+    {
+      "id": "PRICE_EQUAL_WEIGHT",
+      "titleFa": "شاخص قیمت (هم وزن)",
+      "titleEn": "Price Index (Equal-Weighted)",
+      "value": 1029596.09,
+      "change": 0,
+      "percentChange": 0,
+      "high": 1029596.09,
+      "low": 1029596.09,
+      "publishTime": "08:35",
+      "isPositive": true,
+      "topMovers": []
+    },
+    {
+      "id": "FREE_FLOAT",
+      "titleFa": "شاخص آزاد شناور",
+      "titleEn": "Free Float Index",
+      "value": 9926684.05,
+      "change": 0,
+      "percentChange": 0,
+      "high": 9926684.05,
+      "low": 9926684.05,
+      "publishTime": "08:35",
+      "isPositive": true,
+      "topMovers": []
+    },
+    {
+      "id": "FIRST_MARKET",
+      "titleFa": "شاخص بازار اول",
+      "titleEn": "First Market Index",
+      "value": 6530536.75,
+      "change": 0,
+      "percentChange": 0,
+      "high": 6530536.75,
+      "low": 6530536.75,
+      "publishTime": "08:35",
+      "isPositive": true,
+      "topMovers": []
+    },
+    {
+      "id": "SECOND_MARKET",
+      "titleFa": "شاخص بازار دوم",
+      "titleEn": "Second Market Index",
+      "value": 13583936.7,
+      "change": 0,
+      "percentChange": 0,
+      "high": 13583936.7,
+      "low": 13583936.7,
+      "publishTime": "08:35",
+      "isPositive": true,
+      "topMovers": []
+    }
+  ],
+  "marketSummary": {
+    "marketValueToman": 22930304102100,
+    "marketValueRialB": 229303041.021,
+    "totalVolume": 170732000,
+    "totalVolumeM": 170.732,
+    "totalValueToman": 402901200000,
+    "totalValueRialB": 4029.012,
+    "tradesCount": 1698,
+    "marketStatusText": "بسته 08:36:52",
+    "priceDateTime": "1405/08/06 08:36:43",
+    "advancersCount": 385,
+    "declinersCount": 210,
+    "unchangedCount": 45,
+    "realNetCashFlowToman": 42000000000
+  }
+}

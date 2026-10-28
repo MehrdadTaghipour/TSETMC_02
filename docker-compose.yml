@@ -1,0 +1,38 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    container_name: tsetmc-backend
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      - RELAY_URL=${RELAY_URL:-}
+      - RELAY_SECRET_TOKEN=${RELAY_SECRET_TOKEN:-}
+      - TSETMC_UA=${TSETMC_UA:-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36}
+      - POLL_INTERVAL_OPEN=${POLL_INTERVAL_OPEN:-6}
+      - POLL_INTERVAL_CLOSED=${POLL_INTERVAL_CLOSED:-60}
+      - CACHE_DIR=/data/cache
+      - LOG_LEVEL=${LOG_LEVEL:-INFO}
+      - MOCK_MODE=${MOCK_MODE:-false}
+    volumes:
+      - backend-cache:/data/cache
+
+  frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile.frontend
+    container_name: tsetmc-frontend
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    environment:
+      - VITE_API_URL=http://backend:8000
+    depends_on:
+      - backend
+
+volumes:
+  backend-cache:

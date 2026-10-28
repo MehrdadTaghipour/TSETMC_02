@@ -1,0 +1,61 @@
+{
+  "insCode": "46348559193224090",
+  "symbol": "فولاد",
+  "depth": [
+    {
+      "rank": 1,
+      "buyCount": 184,
+      "buyVolume": 3450000,
+      "buyPrice": 5150,
+      "buyPriceToman": 515,
+      "sellPrice": 5160,
+      "sellPriceToman": 516,
+      "sellVolume": 1820000,
+      "sellCount": 78
+    },
+    {
+      "rank": 2,
+      "buyCount": 92,
+      "buyVolume": 2100000,
+      "buyPrice": 5140,
+      "buyPriceToman": 514,
+      "sellPrice": 5170,
+      "sellPriceToman": 517,
+      "sellVolume": 2450000,
+      "sellCount": 115
+    },
+    {
+      "rank": 3,
+      "buyCount": 65,
+      "buyVolume": 1800000,
+      "buyPrice": 5130,
+      "buyPriceToman": 513,
+      "sellPrice": 5180,
+      "sellPriceToman": 518,
+      "sellVolume": 3100000,
+      "sellCount": 140
+    },
+    {
+      "rank": 4,
+      "buyCount": 48,
+      "buyVolume": 1250000,
+      "buyPrice": 5120,
+      "buyPriceToman": 512,
+      "sellPrice": 5190,
+      "sellPriceToman": 519,
+      "sellVolume": 1950000,
+      "sellCount": 84
+    },
+    {
+      "rank": 5,
+      "buyCount": 35,
+      "buyVolume": 980000,
+      "buyPrice": 5110,
+      "buyPriceToman": 511,
+      "sellPrice": 5200,
+      "sellPriceToman": 520,
+      "sellVolume": 4500000,
+      "sellCount": 210
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "insCode": "46348559193224090",
+  "symbol": "فولاد",
+  "real": {
+    "buyCount": 6840,
+    "buyVolume": 61200000,
+    "buyValueToman": 31518000000,
+    "buyPercent": 72.68,
+    "sellCount": 7120,
+    "sellVolume": 45100000,
+    "sellValueToman": 23226500000,
+    "sellPercent": 53.56
+  },
+  "legal": {
+    "buyCount": 42,
+    "buyVolume": 23000150,
+    "buyValueToman": 11845077250,
+    "buyPercent": 27.32,
+    "sellCount": 68,
+    "sellVolume": 39100150,
+    "sellValueToman": 20136577250,
+    "sellPercent": 46.44
+  },
+  "analysis": {
+    "netRealVolume": 16100000,
+    "netRealValueToman": 8291500000,
+    "realBuyerPower": 1.41,
+    "realPerCapitaBuyToman": 4607894,
+    "realPerCapitaSellToman": 3262148,
+    "ownershipTransfer": "LEGAL_TO_REAL"
+  }
+}

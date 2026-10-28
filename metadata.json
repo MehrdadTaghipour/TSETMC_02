@@ -1,0 +1,6 @@
+{
+  "name": "TSETMC Live - بازار بورس تهران",
+  "description": "سامانه جامع و لحظه‌ای بازار بورس اوراق بهادار تهران با دیده‌بان بازار، دفتر سفارشات، جریان نقدینگی و تحلیل صنایع (دو زبانه فارسی و انگلیسی)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

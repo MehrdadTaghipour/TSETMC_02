@@ -1,0 +1,90 @@
+[
+  {
+    "sectorCode": "27",
+    "nameFa": "فلزات اساسی",
+    "nameEn": "Basic Metals",
+    "symbolsCount": 38,
+    "totalValueToman": 1285000000000,
+    "totalVolume": 482000000,
+    "averagePercentChange": 2.15,
+    "topSymbol": "فولاد",
+    "isPositive": true
+  },
+  {
+    "sectorCode": "44",
+    "nameFa": "محصولات شیمیایی",
+    "nameEn": "Chemicals",
+    "symbolsCount": 65,
+    "totalValueToman": 1410000000000,
+    "totalVolume": 312000000,
+    "averagePercentChange": 1.68,
+    "topSymbol": "فارس",
+    "isPositive": true
+  },
+  {
+    "sectorCode": "34",
+    "nameFa": "خودرو و قطعات",
+    "nameEn": "Automotive",
+    "symbolsCount": 42,
+    "totalValueToman": 980000000000,
+    "totalVolume": 640000000,
+    "averagePercentChange": -2.45,
+    "topSymbol": "خودرو",
+    "isPositive": false
+  },
+  {
+    "sectorCode": "56",
+    "nameFa": "سرمایه‌گذاری‌ها",
+    "nameEn": "Investments",
+    "symbolsCount": 54,
+    "totalValueToman": 720000000000,
+    "totalVolume": 510000000,
+    "averagePercentChange": 0.85,
+    "topSymbol": "شستا",
+    "isPositive": true
+  },
+  {
+    "sectorCode": "23",
+    "nameFa": "فراورده‌های نفتی",
+    "nameEn": "Petroleum",
+    "symbolsCount": 16,
+    "totalValueToman": 850000000000,
+    "totalVolume": 240000000,
+    "averagePercentChange": 2.45,
+    "topSymbol": "شپنا",
+    "isPositive": true
+  },
+  {
+    "sectorCode": "57",
+    "nameFa": "بانک‌ها و موسسات",
+    "nameEn": "Banks & Institutions",
+    "symbolsCount": 24,
+    "totalValueToman": 610000000000,
+    "totalVolume": 430000000,
+    "averagePercentChange": 1.92,
+    "topSymbol": "وبملت",
+    "isPositive": true
+  },
+  {
+    "sectorCode": "13",
+    "nameFa": "استخراج کانه‌های فلزی",
+    "nameEn": "Metallic Ores",
+    "symbolsCount": 18,
+    "totalValueToman": 490000000000,
+    "totalVolume": 115000000,
+    "averagePercentChange": 2.10,
+    "topSymbol": "کچاد",
+    "isPositive": true
+  },
+  {
+    "sectorCode": "68",
+    "nameFa": "صندوق‌های سرمایه‌گذاری",
+    "nameEn": "Investment Funds (ETFs)",
+    "symbolsCount": 85,
+    "totalValueToman": 1890000000000,
+    "totalVolume": 890000000,
+    "averagePercentChange": 1.45,
+    "topSymbol": "اهرم",
+    "isPositive": true
+  }
+]
