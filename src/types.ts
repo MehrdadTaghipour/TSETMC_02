@@ -616,6 +616,7 @@ export interface BourseviewCompanyProfile {
   grahamNumberToman: number;
   ddmFairValueToman: number;
   dividendYield: number;
+  payoutRatioPercent: number;
   latestMonthlySalesGrowthYoY: number;
   annualSalesBillionToman: number;
   monthlySales: MonthlySalesRecord[];
